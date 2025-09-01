@@ -1,8 +1,8 @@
 # DSA
-This repo is contain DSA practices question in separate file   
+ # Linked_List question  # 
 
-# add the Element 10,20,30 and print
-`
+**01 : add the Element 10,20,30 and print**
+```
 
 class node {
 constructor(data) {
@@ -21,5 +21,5 @@ while(current){
 console.log(current.data)
 current=current.next
 }
-`
+```
 
