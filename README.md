@@ -1,8 +1,8 @@
 # DSA
 This repo is contain DSA practices question in separate file   
 
-* add the Element 10,20,30 and print
-"
+# add the Element 10,20,30 and print
+`
 
 class node {
 constructor(data) {
@@ -21,5 +21,5 @@ while(current){
 console.log(current.data)
 current=current.next
 }
-"
+`
 
